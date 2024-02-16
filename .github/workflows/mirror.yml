@@ -28,5 +28,5 @@ jobs:
           set -e -x
 
           for i in $(<images.txt); do
-              crane copy $i ghcr.io/acorn-io/images-mirror/$i
+              crane copy $i ghcr.io/sans-sroc/images-mirror/$i
           done
