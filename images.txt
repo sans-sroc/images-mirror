@@ -1,3 +1,5 @@
 docker.io/envoyproxy/envoy:v1.18.3
+docker.io/kumina/openvpn-exporter:latest
+docker.io/kumina/openvpn-exporter:v0.2.2
 docker.io/kylemanna/openvpn:latest
 docker.io/kylemanna/openvpn:2.4
