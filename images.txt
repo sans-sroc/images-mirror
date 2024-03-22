@@ -3,6 +3,7 @@ docker.io/kumina/openvpn-exporter:latest
 docker.io/kumina/openvpn-exporter:v0.2.2
 docker.io/kylemanna/openvpn:latest
 docker.io/kylemanna/openvpn:2.4
+quay.io/prometheus/alertmanager:v0.24.0
 quay.io/prometheus/prometheus:v2.39.1
 quay.io/prometheus-operator/prometheus-config-reloader:v0.60.1
 quay.io/thanos/thanos:v0.29.0
