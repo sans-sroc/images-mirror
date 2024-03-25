@@ -2,6 +2,7 @@ docker.io/envoyproxy/envoy:v1.18.3
 docker.io/kumina/openvpn-exporter:latest
 docker.io/kumina/openvpn-exporter:v0.2.2
 docker.io/library/php:5.4.44-apache@sha256:30fcb290828e381d5a910446c7c884ab9b02efe3a2a215b5f923e7388f5b54ac
+docker.io/library/php:7.3-apache
 docker.io/kylemanna/openvpn:latest
 docker.io/kylemanna/openvpn:2.4
 docker.io/prom/blackbox-exporter:v0.19.0
