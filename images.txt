@@ -4,6 +4,7 @@ docker.io/kumina/openvpn-exporter:v0.2.2
 docker.io/library/httpd:2.4.56
 docker.io/library/mariadb:10.11.4
 docker.io/library/mysql:5
+docker.io/library/mysql:5.7.26
 docker.io/library/nginx:1.25.1
 docker.io/library/php:7.1-apache
 docker.io/library/php:7.3-apache
