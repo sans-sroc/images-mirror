@@ -4,6 +4,7 @@ docker.io/kumina/openvpn-exporter:v0.2.2
 docker.io/library/httpd:2.4.56
 docker.io/library/php:5.4.44-apache@sha256:30fcb290828e381d5a910446c7c884ab9b02efe3a2a215b5f923e7388f5b54ac
 docker.io/library/php:7.3-apache
+docker.io/library/python:3.9.17
 docker.io/kylemanna/openvpn:latest
 docker.io/kylemanna/openvpn:2.4
 docker.io/prom/blackbox-exporter:v0.19.0
