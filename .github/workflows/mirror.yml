@@ -21,7 +21,7 @@ jobs:
           registry: ghcr.io
           username: ${{ github.repository_owner }}
           password: ${{ secrets.GITHUB_TOKEN }}
-      - uses: imjasonh/setup-crane@v0.3
+      - uses: imjasonh/setup-crane@v0.4
       - name: Mirror
         run: |
           #!/bin/bash
