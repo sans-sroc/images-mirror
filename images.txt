@@ -13,7 +13,7 @@ docker.io/library/mysql:5.7.26
 docker.io/library/mysql:8.0.21
 docker.io/library/nginx:alpine
 docker.io/library/nginx:1.25.1
-docker.io/library/nginx:stable-alpine-perl
+docker.io/library/nginx:1.25.2-alpine-perl
 docker.io/library/php:7.1-apache
 docker.io/library/php:7.3-apache
 docker.io/library/python:3.9.17
