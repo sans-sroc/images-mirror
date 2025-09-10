@@ -18,6 +18,7 @@ docker.io/library/php:7.1-apache
 docker.io/library/php:7.3-apache
 docker.io/library/php:7.4-apache
 docker.io/library/python:3.9.17
+docker.io/library/python:3.9.22-slim
 docker.io/library/ubuntu:trusty
 docker.io/nanoninja/php-fpm:8.1
 docker.io/kylemanna/openvpn:latest
