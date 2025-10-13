@@ -1,5 +1,5 @@
 docker.io/adonato/query-exporter:2.10.0
-docker.io/bitnami/kubectl:1.28.15@sha256:a6db53e1b3829dd55e050dcd219f7e4e1c9d833b2e60d5ef8a747d7a119ed7d7 # broadcom - going away
+docker.io/bitnami/kubectl:1.28.15@sha256:a6db53e1b3829dd55e050dcd219f7e4e1c9d833b2e60d5ef8a747d7a119ed7d7
 docker.io/coredns/coredns:1.8.4
 docker.io/coredns/coredns:1.11.1
 docker.io/envoyproxy/envoy:v1.18.3
