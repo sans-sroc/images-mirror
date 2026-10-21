@@ -39,3 +39,4 @@ quay.io/prometheus/node-exporter:v1.3.1
 quay.io/prometheus/prometheus:v2.39.1
 quay.io/prometheus-operator/prometheus-config-reloader:v0.60.1
 quay.io/thanos/thanos:v0.29.0
+docker.io/dunglas/frankenphp:1.13.1-php8.5.12@sha256:55c63014b845d24c3986b72ce7fdd1bdbb3c9219a1ecdc37bf828c7f038e6f1a
